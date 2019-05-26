@@ -175,6 +175,7 @@ $(function() {
 	w.load("<h1 class='writecode'>联系我</h1>");
 	w.load("<ul>");
 	w.load("<li class='writecode'>mail:houzhanwu365@126.com</li>");
+	w.load("<li class='writecode'>tel:17610306792、QQ/微信：1358850447/houzhanwu666666</li>");
 	w.load("<li class='writecode'>blog:<a href='https://me.csdn.net/qq_27404929' target='_blank'>https://me.csdn.net/qq_27404929</a></li>");
 	w.load("<li class='writecode'>github:<a href='https://github.com/houzhanwu' target='_blank'>https://github.com/houzhanwu</a></li>");
 	w.load("</ul>");
