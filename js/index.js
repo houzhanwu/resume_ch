@@ -170,7 +170,7 @@ $(function() {
 	var w = new Coder("md");
 	w.load("<h1 class='writecode'>简历</h1>");
 	w.load("<p><div class='writecode'>侯占五</div>");
-	w.load("<div class='writecode'>软件工程师(承德天元软件技术服务有限公司)</div>");
+	w.load("<div class='writecode'>软件工程师（环保领域、交通领域）</div>");
 	w.load("<div class='writecode'>后端研发工程师</div></p>");
 	w.load("<h1 class='writecode'>联系我</h1>");
 	w.load("<ul>");
@@ -181,25 +181,18 @@ $(function() {
 	w.load("<h1 class='writecode'>技能</h1>");
 	w.load("<ul>");
 	w.load("<li class='writecode'>1、精通java语言及面向对象的设计思想，具有扎实的java编程功底和良好的编码规范及注释规范</li>");
-	w.load("<li class='writecode'>2、精通Tomcat应用服务器，并可配合Eclipse、Maven等IDE进行B/S系统开发</li>");
-	w.load("<li class='writecode'>3、熟练使用Servlet、JSP、HTML进行编程</li>");
-	w.load("<li class='writecode'>4、熟练使用标准SQL语句,熟悉SQL Server、Oracle、Mysql、Redis数据库的使用</li>");
-	w.load("<li class='writecode'>5、熟练使用PowerDesigner、PL/SQL Developer、Navicat等工具进行数据库开发</li>");
-	w.load("<li class='writecode'>6、熟练使用MyBatis、Hibernate、Struts、Spring、SpringMVC、springboot、dubbo等开源分布式框架</li>");
-	w.load("<li class='writecode'>7、熟悉JavaScript、XML、JQuery、AJAX、Json、DOM编程、CSS等技术</li>");
-	w.load("<li class='writecode'>8、熟悉应用Java反射机制、Annotation注解进行编程</li>");
-	w.load("<li class='writecode'>9、熟悉应用一些常用设计模式 （单例模式、模板模式、工厂模式...）</li>");
-	w.load("<li class='writecode'>10、熟悉使用svn、git等版本控制工具</li>");
-	w.load("<li class='writecode'>11、熟练使用linux系统，相关软件安装及应用的部署及维护，基础shell脚本的编写</li>");
-	w.load("<li class='writecode'>12、了解Hadoop相关组件，熟练编写mapreduce,spark等数据分析程序</li>");
+	w.load("<li class='writecode'>2、熟练使用Servlet、JSP、HTML进行编程</li>");
+	w.load("<li class='writecode'>3、熟练使用标准SQL语句,熟悉SQL Server、Oracle、Mysql、Redis数据库的使用</li>");
+	w.load("<li class='writecode'>4、熟练使用Tomcat应用服务器，并可配合Eclipse、Maven、PowerDesigner、PL/SQL Developer、Navicat等工具进行数据库开发</li>");
+	w.load("<li class='writecode'>5、熟练使用MyBatis、Hibernate、Struts、Spring、SpringMVC、springboot、dubbo等开源分布式框架</li>");
+	w.load("<li class='writecode'>6、熟悉JavaScript、XML、JQuery、AJAX、Json、DOM编程、CSS等技术</li>");
+	w.load("<li class='writecode'>7、熟悉应用Java反射机制、Annotation注解进行编程</li>");
+	w.load("<li class='writecode'>8、熟悉应用一些常用设计模式 （单例模式、模板模式、工厂模式...）、熟练使用svn、git等版本控制工具</li>");
+	w.load("<li class='writecode'>9、熟练使用linux系统，相关软件安装及应用的部署及维护，基础shell脚本的编写</li>");
+	w.load("<li class='writecode'>10、了解Hadoop相关组件，熟练编写mapreduce,spark等数据分析程序</li>");
 	w.load("</ul>");
 	w.load("<h1 class='writecode'>项目</h1>");
 	w.load("<ul>");
-	
-	
-	w.load("<li class='writecode'><a href='#' target='_blank'>承德旅行社项目线上(访问请勿修改数据)：http://www.cdholiday.com/</a></li>");
-	w.load("<li class='writecode'><a href='#' target='_blank'>承德钢城街道线上(访问请勿修改数据)：http://slqgcjd.shuidiii.com。</a></li>");
-	w.load("<li class='writecode'><a href='#' target='_blank'>环境监测APP演示版:   http://61.146.237.2:8080/upload/app-release.apk。</a></li>");
 	w.load("<li class='writecode'><a href='#' target='_blank'>茂名市污染源在线监控平台：政府保密。</a></li>");
 	w.load("<li class='writecode'><a href='#' target='_blank'>武汉网上运管(WEB)：政府保密。</a></li>");
 	w.load("<li class='writecode'><a href='#' target='_blank'>武汉掌上运管微信：政府保密。</a></li>");
