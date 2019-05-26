@@ -188,7 +188,7 @@ $(function() {
 	w.load("<li class='writecode'>6、熟练使用MyBatis、Hibernate、Struts、Spring、SpringMVC、springboot、dubbo等开源分布式框架</li>");
 	w.load("<li class='writecode'>7、熟悉JavaScript、XML、JQuery、AJAX、Json、DOM编程、CSS等技术</li>");
 	w.load("<li class='writecode'>8、熟悉应用Java反射机制、Annotation注解进行编程</li>");
-	w.load("<li class='writecode'>9、熟悉应用一些常用设计模式 （单例模式、模板模式、工厂模式...）
+	w.load("<li class='writecode'>9、熟悉应用一些常用设计模式 （单例模式、模板模式、工厂模式...）</li>");
 	w.load("<li class='writecode'>10、熟悉使用svn、git等版本控制工具</li>");
 	w.load("<li class='writecode'>11、熟练使用linux系统，相关软件安装及应用的部署及维护，基础shell脚本的编写</li>");
 	w.load("<li class='writecode'>12、了解Hadoop相关组件，熟练编写mapreduce,spark等数据分析程序</li>");
